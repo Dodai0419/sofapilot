@@ -1,0 +1,35 @@
+sofapilot bundles data and takes ideas from these projects.
+
+Data: data/tvlists.json.gz (reduced to the fields used) and data/protected.json come from
+tellyscope-devices, https://github.com/man15h/tellyscope-devices, MIT License.
+Its device lists derive from cleanyourtv, https://github.com/Gathin23/cleanyourtv,
+Copyright (c) 2026 Gathin, MIT License. Snapshot of cleanyourtv commit
+8672e68e8a24c1258e4662cd11daa4ed13795dad, as recorded in tellyscope-devices.
+
+Ideas only, no code: Tellyscope, https://github.com/man15h/tellyscope, GPL-3.0.
+Its README's safety rules were read. Its code was not read and none of it is used here.
+The protected list in sofapilot.py was written separately.
+
+Tool design: Phone Harness MCP, https://github.com/phone-harness/mcp,
+Copyright (c) 2026 Shawn Pana, MIT License. The set of screen, tap, type, swipe and open tools.
+No code was copied.
+
+MIT permission notice:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

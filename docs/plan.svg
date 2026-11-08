@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="400" viewBox="0 0 720 400" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="720" height="400" rx="14" fill="#10141c"/>
+<text x="36" y="56" font-size="24" font-weight="700" fill="#f2f4f8">TPV Philips Google TV TA1</text>
+<text x="36" y="84" font-size="14" fill="#9aa3b2">Android 12, list philips-55oled708</text>
+<text x="36" y="146" font-size="52" font-weight="700" fill="#30a46c">7</text>
+<text x="36" y="172" font-size="14" fill="#9aa3b2">apps to turn off</text>
+<text x="236" y="146" font-size="52" font-weight="700" fill="#5b8def">18</text>
+<text x="236" y="172" font-size="14" fill="#9aa3b2">apps on now</text>
+<text x="436" y="146" font-size="52" font-weight="700" fill="#f5a524">1</text>
+<text x="436" y="172" font-size="14" fill="#9aa3b2">command to undo it all</text>
+<text x="36" y="212" font-size="14" fill="#d5d9e2">org.droidtv.candeebug</text>
+<text x="360" y="212" font-size="13" fill="#7c8596">TP Vision telemetry</text>
+<text x="36" y="237" font-size="14" fill="#d5d9e2">org.droidtv.gel</text>
+<text x="360" y="237" font-size="13" fill="#7c8596">TP Vision telemetry</text>
+<text x="36" y="262" font-size="14" fill="#d5d9e2">tv.samba.ssm</text>
+<text x="360" y="262" font-size="13" fill="#7c8596">TP Vision telemetry</text>
+<text x="36" y="287" font-size="14" fill="#d5d9e2">com.google.android.feedback</text>
+<text x="360" y="287" font-size="13" fill="#7c8596">TP Vision telemetry</text>
+<text x="36" y="312" font-size="14" fill="#d5d9e2">com.tpv.nftgallery</text>
+<text x="360" y="312" font-size="13" fill="#7c8596">Philips and Google promos, retail demo, first-setu</text>
+<text x="36" y="337" font-size="14" fill="#d5d9e2">com.google.android.partnersetup</text>
+<text x="360" y="337" font-size="13" fill="#7c8596">Philips and Google promos, retail demo, first-setu</text>
+</svg>

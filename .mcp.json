@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "sofapilot": {
+      "command": "python",
+      "args": [
+        "${CLAUDE_PLUGIN_ROOT}/sofapilot.py",
+        "mcp"
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "groups": [
+    {
+      "name": "Philips",
+      "packages": {
+        "org.droidtv.settings": "settings",
+        "org.droidtv.eum": "tv_inputs_remote"
+      }
+    }
+  ]
+}
